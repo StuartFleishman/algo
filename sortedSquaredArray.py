@@ -1,3 +1,4 @@
+# Given an array of integers, return a new array of all the integers of the orginal array squared
 # 0(nLogn) time
 # O(n) space
 def sortedSquaredArray(array):
